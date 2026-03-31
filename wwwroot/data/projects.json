@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "Kurumsal Web ve Ürün Yönetim Platformu",
+    "Description":  "C# ve .NET Core teknolojileri kullanılarak N-Tier (Çok Katmanlı) mimari standartlarında geliştirilmiş, yüksek performanslı kurumsal web projesi. Veri tabanı tasarımı ve optimizasyonları Entity Framework Core ve Fluent API ile sağlanmış olup; dinamik içerik yönetimi, SEO dostu mimari (Slug) ve modüler kategori/ürün ağacı entegre edilmiştir.",
+    "GithubUrl": "https://github.com/berkozbicer/MYSTech"
+  },
+  {
+    "Title": "Web Tahmin Platformu",
+    "Description": "PHP ve Laravel framework kullanılarak, kullanıcının abonelik tabanlı tahmin paylaşabildiği dinamik bir web platformu oluşturuldu.",
+    "GithubUrl": "https://github.com/berkozbicer/TahminWeb"
+  },
+  {
+    "Title": "Kütüphane Yönetim Sistemi",
+    "Description": "C# ve Entity Framework altyapısı ile kitap ödünç/iade takibi",
+    "GithubUrl": ""
+  },
+  {
+    "Title": "Restoran POS Sistemi",
+    "Description": "C# ve Entity Framework kullanılarak, sipariş ve adisyon takibi yapabilen yerel bir masaüstü uygulaması",
+    "GithubUrl": ""
+  }
+]
